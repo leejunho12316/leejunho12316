@@ -1,32 +1,32 @@
-## AI 개발자 이준호 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI%20Data-nl-Engineer&fontSize=70)
 
-언어
+Language
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-기술
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={leejunho0909})](https://solved.ac/{handle})
-
+Skills
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white), PyTorch
 
 Spotify
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=leejunho0909)](https://solved.ac/leejunho0909)
+
+
+
+
+
+
+
 
 <!--
-**leejunho12316/leejunho12316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#맨 처음 커튼 표시
+https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md#fontsize
 
-Here are some ideas to get you started:
+#배지
+https://github.com/Envoy-VC/awesome-badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#백준 랭크 표시
+https://github.com/mazassumnida/mazassumnida
+
