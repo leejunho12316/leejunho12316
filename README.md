@@ -7,7 +7,7 @@
 
 # Skill Stacks
 Language : Python, SQL
-<img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=White)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite?logoColor=White)
