@@ -15,30 +15,29 @@ Machine Learning :
 <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Statsmodels-001327"/>
 
-
 Deep Learning :
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
 
-
-### Data
+Data :
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-FF6F00"/>
 <img src="https://img.shields.io/badge/Seaborn-FF6F00"/>
 
+NLP : 
+<img src="https://img.shields.io/badge/KoNLPy-013243"/>
+<img src="https://img.shields.io/badge/Transformer-FFD21E?logo=huggingface&logoColor=white"/>
 
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
 
-### NLP
-- KoNLPy
-- Transformer
-- ANN
+Tools & Collaborations :
+<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/webex-000000?logo=webex&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/slack-000000"/>
 
-### Tools & Collaborations
 - Git
 - Discord, WebEx
 - Notion, Slack
