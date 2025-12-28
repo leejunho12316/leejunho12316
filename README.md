@@ -10,18 +10,22 @@ Language :
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"/>
 
-Machine Learning : Scikit-Learn, Scipy, Statsmodels
+Machine Learning :
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Statsmodels-001327"/>
 
 
-Deep Learning : Tensorflow PyTorch
+Deep Learning :
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
 
 
 ### Data
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF6F00"/>
+<img src="https://img.shields.io/badge/Seaborn-FF6F00"/>
 
 
 - Pandas
