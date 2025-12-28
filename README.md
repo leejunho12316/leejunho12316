@@ -5,6 +5,7 @@
 ➡️➡️➡️
 [![Notion Page](https://img.shields.io/badge/Portfolio-000000?&logo=notion&logoColor=white&link=https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)](https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)
 ⬅️⬅️⬅️
+[![Email](https://img.shields.io/badge/naver-03C75A?logo=naver&logoColor=white&link=mailto:leejunho0909@naver.com)](leejunho0909@naver.com)
 
 
 1. AI와 데이터에 대한 이해
