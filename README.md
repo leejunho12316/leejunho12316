@@ -1,5 +1,49 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
+
+https://img.shields.io/badge/이거도되나-blue
+
+
+
+# Skill Stacks
+Language : Python, SQL
+Machine Learning : Scikit-Learn, Scipy, Statsmodels
+Deep Learning : Tensorflow PyTorch
+
+### Data
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+### NLP
+- KoNLPy
+- Transformer
+- ANN
+
+### Tools & Collaborations
+- Git
+- Discord, WebEx
+- Notion, Slack
+
+### Others
+- Open API
+- Web Crawling
+- Librosa
+- OpenCV
+
+
+
+
+
+
+
+
+
+
+
+
+
 Language : 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
