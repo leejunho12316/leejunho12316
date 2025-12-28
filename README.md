@@ -7,7 +7,7 @@
 
 # Skill Stacks
 Language : Python, SQL
-![Python](https://img.shields.io/badge/_-Python-3776AB?logo=Python)
+![Python](https://img.shields.io/badge/%20-Python-3776AB?logo=Python)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite)
 
 Machine Learning : Scikit-Learn, Scipy, Statsmodels
