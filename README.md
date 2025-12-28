@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
 ![github](https://img.shields.io/badge/github-repo-blue?logo=github)
-![Test](https://img.shields.io/badge/Python-3776AB?logo=Python)
+
 
 
 
 # Skill Stacks
 Language : Python, SQL
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python)
+![SQLite](https://img.shields.io/badge/Python-003B57?logo=SQLite)
+
 Machine Learning : Scikit-Learn, Scipy, Statsmodels
 Deep Learning : Tensorflow PyTorch
 
