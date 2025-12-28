@@ -6,16 +6,14 @@
 
 
 # Skill Stacks
-Language : Python, SQL
+Language : 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"/>
 
 Machine Learning : Scikit-Learn, Scipy, Statsmodels
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white"/>
-
-![scikitlearn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn)
-![scipy](https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy)
+<img src="https://img.shields.io/badge/Statsmodels-001327/>
 
 
 Deep Learning : Tensorflow PyTorch
