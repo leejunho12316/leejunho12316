@@ -17,8 +17,13 @@ Machine Learning : Scikit-Learn, Scipy, Statsmodels
 
 
 Deep Learning : Tensorflow PyTorch
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>
+
 
 ### Data
+
+
 - Pandas
 - Numpy
 - Matplotlib
