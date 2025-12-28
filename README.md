@@ -13,7 +13,7 @@ Language :
 Machine Learning : Scikit-Learn, Scipy, Statsmodels
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scipy-8CAAE6?logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statsmodels-001327/>
+<img src="https://img.shields.io/badge/Statsmodels-001327"/>
 
 
 Deep Learning : Tensorflow PyTorch
