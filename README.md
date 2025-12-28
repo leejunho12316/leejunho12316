@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
 # Introduce.
-
+➡️➡️➡️
 [![Notion Page](https://img.shields.io/badge/Portfolio-000000?&logo=notion&logoColor=white&link=https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)](https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)
-
+⬅️⬅️⬅️
 
 
 1. AI와 데이터에 대한 이해
