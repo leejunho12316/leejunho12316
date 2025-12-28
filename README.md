@@ -3,7 +3,7 @@
 
 # Introduce.
 
-[![Notion Page](https://img.shields.io/badge/notion-000000?&logo=notion&logoColor=white&link=https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)](https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)
+[![Notion Page](https://img.shields.io/badge/Portfolio-000000?&logo=notion&logoColor=white&link=https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)](https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)
 
 
 
