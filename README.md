@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
 ![github](https://img.shields.io/badge/github-repo-blue?logo=github)
-![Test](https://img.shields.io/badge/python-#3776AB?logo=Python)
+![Test](https://img.shields.io/badge/Python-3776AB?logo=Python)
 
 
 
