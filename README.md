@@ -8,9 +8,7 @@
 # Skill Stacks
 Language : Python, SQL
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=White)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite?logoColor=White)
+<img src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"/>
 
 Machine Learning : Scikit-Learn, Scipy, Statsmodels
 ![scikitlearn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn)
