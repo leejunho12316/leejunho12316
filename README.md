@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
 
-![Test](https://img.shields.io/badge/이거도-orange-되나-blue)
+![Test](https://img.shields.io/badge/이거도_되나-blue)
 
 
 
