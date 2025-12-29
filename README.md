@@ -23,7 +23,7 @@
 # Skill Stacks.
 Language : 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57"/>
 
 Machine Learning :
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white"/>
