@@ -1,11 +1,11 @@
 # About Me
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
-# Introduce.
-➡️➡️➡️
+↳
 [![Notion Page](https://img.shields.io/badge/Portfolio-000000?&logo=notion&logoColor=white&link=https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)](https://www.notion.so/AI-2c6e277d0d7580feae25e138556f8ccb?source=copy_link)
 [![Email](https://img.shields.io/badge/Email-03C75A?logo=naver&logoColor=white&link=mailto:leejunho0909@naver.com)](leejunho0909@naver.com)
 
+# Introduce.
 1. AI와 데이터에 대한 이해
 - 졸업 프로젝트, 개별 프로젝트, P-실무 프로젝트를 통해 **Machine Learning, Deep Learning, NLP**에 대한 역량을 키워왔습니다.
 - 데이터 수집과 정제, 전처리, 분석, AI 학습과 피드백까지 **데이터 분석 기술**을 터득했습니다.
