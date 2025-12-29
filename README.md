@@ -1,4 +1,4 @@
-# About Me
+# About Me.
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
 ↳
@@ -20,7 +20,7 @@
 
 
 
-# Skill Stacks
+# Skill Stacks.
 Language : 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"/>
@@ -68,7 +68,7 @@ Others :
 
 
 
-# Repos
+# Repos.
 
 
 
