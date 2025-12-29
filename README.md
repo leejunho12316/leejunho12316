@@ -45,12 +45,13 @@ NLP :
 <img src="https://img.shields.io/badge/Transformer-FFD21E?logo=huggingface&logoColor=white"/>
 
 Tools & Collaborations :
-<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/webex-000000?logo=webex&logoColor=white"/>
-<img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/slack-000000"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webex-000000?logo=webex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-000000"/>
 
 Others :
 <img src="https://img.shields.io/badge/Librosa-FFE033"/>
