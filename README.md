@@ -54,7 +54,7 @@ Tools & Collaborations :
 
 Others :
 <img src="https://img.shields.io/badge/Librosa-FFE033"/>
-<img src="https://img.shields.io/badge/opencv-5C3EE8?logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAPI-000000"/>
 <img src="https://img.shields.io/badge/WebCrawling-000000"/>
 
