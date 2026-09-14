@@ -1,9 +1,12 @@
 # About Me.
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
+**포트폴리오 URL :**
 <a href="https://app.notion.com/p/3c6e277d0d758095bbf0c5f33e89c13c?source=copy_link">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" height="42"/>
 </a>
+
+<br>
 
 # Summary.
 1. 서비스 개발부터 Cloud 배포까지 **Full Stack** 이해 능력
@@ -19,6 +22,8 @@
 - **명확한 소통**과 **협업**으로 성장하고자 하는 자세를 갖추고 있습니다.
 - 반복되는 일을 **자동화**하고 작업의 **시간 효율을 개선**하는 것을 통해 편리한 생활을 만들고자 합니다.
 - 맡은 일이라면 어떤 일이든 **120%**를 하고자 하는 마음가짐을 가지고 있습니다.
+
+<br>
 
 # Skills.
 Language :
@@ -68,6 +73,8 @@ Tools & Collaborations :
 <img src="https://img.shields.io/badge/Runpod-673AB7"/>
 <img src="https://img.shields.io/badge/ERDCloud-0052CC"/>
 
+<br>
+
 # Certificate.
 - 25.12.20/ 빅데이터분석기사 (BAE-011001168) / **한국데이터산업진흥원**
 - 25.12.12/ SQL 개발자 (SQLD-059000846) / **한국데이터산업진흥원**
@@ -75,9 +82,13 @@ Tools & Collaborations :
 - 25.06.27/ AICE ASSOCIATE (AICE_A25062701_20250627_A00017)/ **KT, 한국경제신문**
 - 18.02.28/ 자동차운전면허 1종 보통 (11-18-010205-20)/ **서울지방경찰청**
 
+<br>
+
 # Language.
 - 26.02.07/ OPIc (2A5357602628) - **AL** / **미국외국어교육협회 ACTFL**
 - 24.09.07/ TOEIC (039168-0516002401) - **875** / **한국토익위원회**
+
+<br>
 
 # Repos.
 
