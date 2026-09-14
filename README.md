@@ -1,8 +1,9 @@
 # About Me.
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=AI-nl-Engineer&fontSize=70)
 
-↳
-[![Notion Page](https://img.shields.io/badge/Portfolio-000000?&logo=notion&logoColor=white)](https://app.notion.com/p/3c6e277d0d758095bbf0c5f33e89c13c?source=copy_link)
+<a href="https://app.notion.com/p/3c6e277d0d758095bbf0c5f33e89c13c?source=copy_link">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" height="42"/>
+</a>
 
 # Summary.
 1. 서비스 개발부터 Cloud 배포까지 **Full Stack** 이해 능력
