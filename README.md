@@ -16,7 +16,7 @@
 
 2. AI와 Data에 대한 이해
 - 빅데이터 분석기사(BAE), SQLD, ADsP, AICE Associate 자격증 취득을 통해 **데이터 생태계에 대한 지식 기반**을 쌓았습니다.
-- 4개의 학부 프로젝트를 통해 **Machine Learning, Deep Learning** 모델 학습과 **NLP**에 대한 이해를 다졌습니다.
+- 8번의 프로젝트의 전체 과정에서 데이터 수집-전처리-서비스 개발-테스트 검증의 과정을 거치며 수치를 통한 근거 평가를 습관화했습니다.
 
 # Mindset.
 - **명확한 소통**과 **협업**으로 성장하고자 하는 자세를 갖추고 있습니다.
@@ -42,6 +42,8 @@ AI :
 
 BackEnd & DB :
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
